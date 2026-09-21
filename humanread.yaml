@@ -1,0 +1,68 @@
+version: 1
+title: 'El jardín de cuentos de Tao: La campanilla que seguía sonando'
+slug: translation-58-es-b0fcf1
+summary: Ahe se tapa los oídos y cree que nadie oye la campanilla. Seis capítulos
+  ilustrados sobre el autoengaño y el valor de decir la verdad.
+cover_color: '#458f87'
+cover_asset: assets/fd6a588683b9f604f38908db5467636f076e5e7406e00d8d3300f815f616bd22.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: es
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: 66065836fc15f198046fc98d5a9678495f30043ad3788faec9b7804f205500ed
+  source_novel_id: 58
+  source_slug: novel-16cf768c-a74a4d
+  source_title: 小桃的成語小院：掩耳盜鈴
+  source_version_id: 98
+  target_language: es
+  translator: Humanread Founder
+chapters:
+- id: 887
+  title: Un destello junto a la puerta
+  position: 1
+  file: chapters/0001-887.html
+  format: sandbox-html-css
+  share_card: null
+- id: 888
+  title: Más rápido que un dedo
+  position: 2
+  file: chapters/0002-888.html
+  format: sandbox-html-css
+  share_card: null
+- id: 889
+  title: Una puerta solo para él
+  position: 3
+  file: chapters/0003-889.html
+  format: sandbox-html-css
+  share_card: null
+- id: 890
+  title: Al otro lado del umbral
+  position: 4
+  file: chapters/0004-890.html
+  format: sandbox-html-css
+  share_card: null
+- id: 891
+  title: Las manos vacías, la verdad entera
+  position: 5
+  file: chapters/0005-891.html
+  format: sandbox-html-css
+  share_card: null
+- id: 892
+  title: Escuchar juntos
+  position: 6
+  file: chapters/0006-892.html
+  format: sandbox-html-css
+  share_card: null
